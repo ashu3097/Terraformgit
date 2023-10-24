@@ -1,4 +1,4 @@
 variable "rg_name"{
     type = "string"
-    default = "terraform-demo"
+    default = "terraform-demo123"
 }
